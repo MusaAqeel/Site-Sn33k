@@ -1,0 +1,4 @@
+
+*.typed
+myenv/lib/python3.12/site-packages/anyio-4.4.0.dist-info/INSTALLER
+/myenv
